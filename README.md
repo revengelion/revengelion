@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=revengelion&show_icons=true&locale=en&layout=compact" alt="revengelion" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=revengelion" alt="revengelion" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=revengelion&show_icons=true&locale=en&layout=compact" alt="revengelion" /></p>
 
 
 [![roadmap.sh](https://roadmap.sh/card/wide/68013b806057cdb1a24b085e?variant=dark)](https://roadmap.sh)
