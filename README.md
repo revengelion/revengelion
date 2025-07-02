@@ -29,5 +29,9 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=revengelion&" alt="revengelion" /></p>
 
+### 📊 Stats
+
+![revengelion's GitHub stats](https://github-readme-stats.vercel.app/api?username=revengelion&show_icons=true&theme=gruvbox)
+
 
 [![roadmap.sh](https://roadmap.sh/card/wide/68013b806057cdb1a24b085e?variant=dark)](https://roadmap.sh)
